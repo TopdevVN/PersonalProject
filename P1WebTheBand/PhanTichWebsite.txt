@@ -1,0 +1,13 @@
+TheBandWebLink:https://www.w3schools.com/w3css/tryw3css_templates_band.htm#
+
+Các thành phần cơ bản cấu thành website:
+    1) Header
+    2) Navigation
+    3) Breadcrum (Điều hướng phân cấp/ trình tự) 
+       Indicate the current page's location within a navigational hierarchy.
+    4) Sidebar
+    5) Slider
+    6) Footer
+    7) Content
+
+Default: <div> tag has the width equal to the width of the site.
